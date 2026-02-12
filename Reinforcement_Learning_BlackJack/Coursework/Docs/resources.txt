@@ -1,0 +1,15 @@
+Blackjack Q-Learning proj: https://github.com/arindal1/blackjack-qlearning-rl/blob/main/qlearning.py
+
+Guide on 'Medium' website (good for image inspiration): https://towardsdatascience.com/winning-blackjack-using-machine-learning-681d924f197c
+
+https://ai.stackexchange.com/questions/26130/what-are-the-popular-approaches-to-estimating-the-q-function
+
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6ba80f6366bcf7a8513cc4aa8c6486af0df6a6c2
+
+The optimum strategy in blackjack: https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/handouts/Baldwin_OptimalStrategyBlackjack.pdf
+
+Reinforcement Learning: An introduction : https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+
+State space decomposition for RL: https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/2021-ug-projects/State-space-decomposition-for-Reinforcement-Learning.pdf
+
+Google Scholar, Reinforcement Learning blackjack: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=reinforcement+learning+blackjack&oq=reinforcement+learning+black

@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "on",
+    "ltex.language": "en-GB",
+    "latex-workshop.latex.outDir": "%DIR%/aux_",
+}
