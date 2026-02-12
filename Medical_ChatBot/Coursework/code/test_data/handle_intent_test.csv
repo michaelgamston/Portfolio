@@ -1,0 +1,31 @@
+input,intent
+why do i need to give you that,question
+what is going with this,question
+can you help understand whats happending here,question
+i dont feel comfortable giving you any more data,question
+thats odd why do you need that,question
+this doesn’t make any sence,question
+is it really necessary,question
+what happens here,question
+im confused,question
+please can you help me understand this part,question
+how are you today,other
+im really bored,other
+have you had ice cream,other
+are you sentient,other
+marvin is a silly name,other
+i would like to buy a new car,other
+i am very thirsty right one,other
+let get a pint later,other
+only 3 months left,other
+its raining today but thats okay because im stuck in door,other
+i would like change user please,change_user
+reset my data a different person wants a go,change_user
+another user wants to use this,change_user
+im going to let someone else take over now,change_user
+can i have over to a different user,change_user
+im going leave now can you switch user,change_user
+change user,change_user
+i would like to get someone elses data,change_user
+im goin to hand over to a different user,change_user
+lets switch users,change_user

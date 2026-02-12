@@ -1,0 +1,36 @@
+{ 
+    "request_dob" : [
+        "May I have your date of birth? Preferably in date format DD MM YYYY",
+        "Could you provide your date of birth? Please use the format DD MM YYYY.",
+        "Please tell me your date of birth, ideally in DD MM YYYY format.",
+        "Would you kindly give your date of birth? Preferably written as DD MM YYYY.",
+        "May I get your date of birth? Please enter it in the format DD MM YYYY."
+    ],
+    "question_response" : [
+        "I need to get your date of birth so I can find your records. If you would like to exit this system, type 'exit'. Or type 'help' for a more detailed description why I need your date of birth. You'd like to change user just ask!",
+        "Please provide your date of birth so I can locate your records. If you want to exit, type 'exit'. For more details on why I need it, type 'help'. If you want to change user, just ask!",
+        "I require your date of birth to find your records. Type 'exit' to exit the system. Type 'help' for a detailed explanation. If you'd like to change user, just ask!",
+        "To find your records, I need your date of birth. Type 'exit' to leave. For more info, type 'help'. If you want to change user, simply ask!",
+        "I need your date of birth to access your records. If you wish to exit, type 'exit'. For a detailed reason, type 'help'. You'd like to change user, just ask!"
+    ],
+    "other" : [
+        "I'm sorry I didn't recognise that. Could you try entering you date of birth again? If you'd like to exit this process type 'exit', Or type 'help' for a more detailed description why I need your date of birth.",
+        "Sorry, I didn't recognise that input. Please enter your date of birth again. To exit, type 'exit'. For more details, type 'help'.",
+        "I'm sorry, that wasn't recognised. Could you try your date of birth again? Type 'exit' to leave or 'help' for more information.",
+        "Apologies, I didn't recognise that. Please re-enter your date of birth. If you want to exit, type 'exit'. For a detailed reason, type 'help'.",
+        "Sorry, I couldn't recognise that input. Try entering your date of birth again. Type 'exit' to exit or 'help' for more details."
+
+    ],
+    "help" : [
+        "Hi! I need your date of birth so I can correlate it with your name to find your records! It's also a proof of who you are. If you would like to switch user please just ask and we can start again. Or type \"exit\" to exit the system.<br>Once I've got your date of birth I can take a request to delete, retrieve or change some of your data that is on record.<br>I can help you retrieve or request to change any of the following: <br>-name <br>-age <br>-gender <br>-blood type <br>-medical condition <br>-date of admission <br>-doctor <br>-hospital <br>-insurance provider <br>-billing amount <br>-room number <br>-admission type <br>-discharge date <br>-medication <br>-test results",
+        "Hello! I need your date of birth so I can pair it with your name to locate your records. It also acts as proof of identity. To switch users, just ask and we'll restart. Or type 'exit' to exit the system.<br>With your date of birth, I can help you delete, retrieve, or modify certain details we hold.<br>You can request changes or retrieval of any of the following:<br>-name <br>-age <br>-gender <br>-blood type <br>-medical condition <br>-date of admission <br>-doctor <br>-hospital <br>-insurance provider <br>-billing amount <br>-room number <br>-admission type <br>-discharge date <br>-medication <br>-test results",
+        "Hi there! I'll need your date of birth to confirm your identity and match it with your name in our records.<br>If you wish to change user, just ask and we'll begin again. To exit, type 'exit'.<br>Once I have your date of birth, I can process requests to delete, retrieve, or update data we have stored.<br>Here's what you can request to change or access:<br>-name <br>-age <br>-gender <br>-blood type <br>-medical condition <br>-date of admission <br>-doctor <br>-hospital <br>-insurance provider <br>-billing amount <br>-room number <br>-admission type <br>-discharge date <br>-medication <br>-test results"
+    ],
+    "dob_no_found" : [
+        "That date of birth doesn't correlate with what we have on record. Could you check you inputs and try again?",
+        "The date of birth you entered doesn't match our records. Please verify your input and try again.",
+        "Your date of birth doesn't correspond with our records. Kindly check your entry and try once more.",
+        "The date of birth provided does not match what we have on file. Please review your input and try again.",
+        "That date of birth doesn't align with our records. Please double-check your input and try again."
+    ]
+}

@@ -1,0 +1,61 @@
+input,intent
+why do i need to give you that,question
+what is going with this,question
+can you help understand whats happending here,question
+i dont feel comfortable giving you any more data,question
+thats odd why do you need that,question
+this doesn’t make any sence,question
+is it really necessary,question
+what happens here,question
+im confused,question
+please can you help me understand this part,question
+how are you today,other
+im really bored,other
+have you had ice cream,other
+are you sentient,other
+marvin is a silly name,other
+i would like to buy a new car,other
+i am very thirsty right one,other
+let get a pint later,other
+only 3 months left,other
+its raining today but thats okay because im stuck in door,other
+i would like change user please,change_user
+reset my data a different person wants a go,change_user
+another user wants to use this,change_user
+im going to let someone else take over now,change_user
+can i have over to a different user,change_user
+im going leave now can you switch user,change_user
+change user,change_user
+i would like to get someone elses data,change_user
+im goin to hand over to a different user,change_user
+lets switch users,change_user
+I want to delete a record,delete_record
+please can i delete my data,delete_record
+i need my data cleared,delete_record
+i want to clear a record,delete_record
+i want some of my data deleted,delete_record
+please detele my records,delete_record
+i need to erase some of my files,delete_record
+can you delete a file for me,delete_record
+get rid of the data you have for me,delete_record
+i want a file delete,delete_record
+Can you retrieve a record for me please,get_record
+can you pull a file up for me,get_record
+show me what you have on record,get_record
+have you got this my medical history,get_record
+i need to view some files,get_record
+are you able to show me some of my records,get_record
+i would like to see my files,get_record
+can you show me what data you have on me,get_record
+i want to see what the doctor has written about me,get_record
+show me my files please,get_record
+i want to edit some of my data,update_record
+i want my data changed,update_record
+i need to update a record,update_record
+please can you change some of my records,update_record
+id like to edit my data,update_record
+the records you have are wrong the need changing,update_record
+i want to edit some the files you have,update_record
+please i request to change something,update_record
+how i do i change a record,update_record
+update a record,update_record

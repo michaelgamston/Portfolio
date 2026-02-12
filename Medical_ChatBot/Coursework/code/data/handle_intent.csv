@@ -1,0 +1,601 @@
+input,intent
+What’s the weather like today?,other
+no,other
+Tell me a joke.,other
+Play some relaxing music.,other
+How do I reset my password?,other
+What’s the capital of Norway?,other
+Can you  me order pizza?,other
+What’s 25 times 42?,other
+Who won the game last night?,other
+How do you say “hello” in Japanese?,other
+Recommend a good movie to watch.,other
+What time is it in New York?,other
+Show me pictures of cats.,other
+I’m bored what should I do?,other
+Tell me a fun fact.,other
+Can you turn off the lights?,other
+What’s trending on Twitter?,other
+Translate “thank you” to Spanish.,other
+How do I make sourdough bread?,other
+Do you know any tongue twisters?,other
+What’s the latest tech news?,other
+Can you  me book a flight?,other
+Set a timer for 20 minutes.,other
+What’s 78°F in Celsius?,other
+How many days until Christmas?,other
+Give me a recipe for lasagna.,other
+Roll a dice.,other
+What’s a good podcast to listen to?,other
+Define “ephemeral.”,other
+Can you tell me a bedtime story?,other
+What’s the meaning of life?,other
+ me practice a job interview.,other
+Who painted the Mona Lisa?,other
+I need a workout routine.,other
+What’s the tallest mountain in the world?,other
+How do you spell “accommodate”?,other
+What are some good riddles?,other
+Show me some inspirational quotes.,other
+How do you start a blog?,other
+Can you beatbox?,other
+ me study for my math test.,other
+What’s a healthy breakfast idea?,other
+Teach me a new word.,other
+What’s happening in the world today?,other
+How do I meditate properly?,other
+What zodiac sign is compatible with Leo?,other
+I need  writing a poem.,other
+What’s a cool science experiment for kids?,other
+What is ChatGPT?,other
+How do I improve my memory?,other
+Write me a haiku about space.,other
+Can you recommend a good book?,other
+What are some beginner guitar chords?,other
+How does Bitcoin work?,other
+What are the symptoms of jet lag?,other
+Can you tell me a scary story?,other
+What’s a good gift for a 10-year-old?,other
+What’s the fastest animal on Earth?,other
+Explain the rules of chess.,other
+Where is the Eiffel Tower located?,other
+What’s a pun for Halloween?,other
+How do I stop procrastinating?,other
+What are some mindfulness exercises?,other
+How do you fold a fitted sheet?,other
+What’s the best way to learn coding?,other
+Do dogs dream?,other
+What is the periodic table?,other
+Can you sing happy birthday?,other
+What is an NFT?,other
+Help me brainstorm a business idea.,other
+What rhymes with “orange”?,other
+Who is the president of France?,other
+Show me a map of South America.,other
+What are the rules of Uno?,other
+What’s a cool magic trick I can do?,other
+Recommend a good strategy game.,other
+How many calories are in an apple?,other
+What is the best productivity app?,other
+Can you pretend to be a pirate?,other
+What do penguins eat?,other
+What is a palindrome?,other
+How do I start a podcast?,other
+What’s a fun icebreaker question?,other
+What’s the best way to learn a new language?,other
+How do airplanes fly?,other
+How do I tell if an avocado is ripe?,other
+What is a black hole?,other
+Give me an idea for a short story.,other
+What are the rules for Sudoku?,other
+Who invented the light bulb?,other
+How do I play the ukulele?,other
+What’s your favorite movie?,other
+How do I start a garden?,other
+What’s a good prank to play on April Fools’ Day?,other
+Tell me about the Roman Empire.,other
+What are the benefits of drinking water?,other
+How do I draw a dragon?,other
+Can you  me write a rap?,other
+What is a limerick?,other
+What should I name my new puppy?,other
+What is quantum physics?,other
+Give me a list of famous inventors.,other
+Can you imitate a Shakespearean actor?,other
+What does “serendipity” mean?,other
+Who are the Beatles?,other
+What is the Fibonacci sequence?,other
+I need a fun fact for my presentation.,other
+How do I become a better public speaker?,other
+What’s the best way to make friends?,other
+Can you solve a riddle?,other
+What’s a good tongue twister?,other
+What’s the history behind Halloween?,other
+What is the best way to train a dog?,other
+me organize my daily schedule.,other
+Can you write a love letter for me?,other
+I need a name for my fantasy character.,other
+What’s a fun trivia question?,other
+How do I make origami?,other
+What’s the longest word in English?,other
+Do you know any weird laws?,other
+me plan a surprise party.,other
+Birds chirp,other
+She waited,other
+Morning arrived late,other
+They disappeared together,other
+The sun rose quickly,other
+Shadows moved across the floor,other
+Nobody came to the meeting,other
+A soft breeze cooled the room,other
+The dog barked at nothing again,other
+He closed his eyes and listened,other
+The clouds rolled in without any warning,other
+She whispered the secret and then walked away,other
+Lights flickered in the hallway as the power surged,other
+They laughed loudly while running through the empty playground,other
+He stared at the map trying to find a better route,other
+Cold air drifted in from the open window and touched his face,other
+A strange sound echoed through the tunnel making everyone freeze in place,other
+The boy reached for the toy that lay just beyond his fingers,other
+She found the letter hidden under the drawer inside the old wooden desk,other
+Wind shook the trees and made the shutters slam against the window frame,other
+Nobody spoke after the music stopped and the lights flickered one final time,other
+They danced under the stars until the sky began to brighten with morning,other
+I walked all day hoping to see something familiar but nothing ever appeared,other
+The old man told stories by the fire while the children listened wide eyed,other
+He left the house at dawn and never looked back once not even,other
+A tiny boat drifted across the lake barely visible beneath the early morning mist,other
+The painting hung crooked on the wall as if trying to escape its frame,other
+She remembered the promise he made before leaving but never truly believed he meant it,other
+Rain fell steadily through the night soaking the streets and washing away the footprints,other
+We walked through the quiet forest,other
+The clock stopped ticking at midnight,other
+She sings beautifully in the choir,other
+The cat chased a mouse outside,other
+Leaves fell softly onto the ground,other
+The candle flickered in the dark room,other
+He cooked dinner for the whole family,other
+The stars shone brightly above the lake,other
+They danced until the music ended,other
+The children played in the sandbox happily,other
+A fox darted across the meadow quickly,other
+The old book smelled like the past,other
+She wore a hat decorated with flowers,other
+The train whistled as it approached the station,other
+Rain tapped gently on the window pane,other
+He wrote a letter but never sent it,other
+The wind carried the scent of pine,other
+A dog barked somewhere in the distance,other
+The garden bloomed with colorful tulips,other
+She closed the door behind her softly,other
+The mountain loomed large against the sky,other
+They waited patiently for the bus to arrive,other
+The fire crackled warmly in the hearth,other
+He found a seashell on the beach,other
+The phone rang loudly in the empty house,other
+She smiled as the sun set slowly,other
+The snow covered everything in a white blanket,other
+A child’s laughter echoed through the playground,other
+The boat rocked gently on the calm water,other
+The lights went out during the storm,other
+She painted a picture of the old barn,other
+The street was quiet after midnight,other
+The clock tower chimed eleven times,other
+They hiked up the steep mountain trail,other
+A breeze rustled through the tall grass,other
+The baker prepared fresh bread early morning,other
+She found a hidden path in the woods,other
+The cat purred softly on her lap,other
+He fixed the broken chair carefully,other
+The clouds turned pink at sunset,other
+They sang songs around the campfire happily,other
+The garden gate creaked in the wind,other
+She opened the window to let in air,other
+The river sparkled under the afternoon sun,other
+He planted seeds in the empty garden bed,other
+The birds nested high in the old tree,other
+The children built a fort from blankets,other
+She read a book by the fireplace,other
+The moon cast shadows on the quiet street,other
+He sharpened his pencils before drawing,other
+Can you help me with this?,question
+I'm not sure what to do next.,question
+Could you explain this again?,question
+I don’t understand this can you help me?,question
+I’m confused about this part.,question
+What should I do here?,question
+Can you clarify what you mean?,question
+I'm lost can you assist me?,question
+I need help with something.,question
+Can you give me more details?,question
+What does this mean?,question
+I don't know where to start.,question
+I don’t get what you’re saying.,question
+How do I fix this?,question
+Can you help me figure this out?,question
+I’m stuck can you guide me?,question
+I’m having trouble with this.,question
+Could you walk me through it?,question
+What’s the next step?,question
+I’m not sure how to proceed help.,question
+Could you help me understand this better?,question
+I don’t know what to do with this.,question
+I don’t understand what’s going on here.,question
+This doesn’t make sense to me.,question
+Can you break it down for me?,question
+I’m confused about the instructions.,question
+I can’t find the right option.,question
+Can you show me what to do?,question
+I don’t understand how this works.,question
+Can you explain that more clearly?,question
+What does this button do?,question
+Can you help me solve this problem?,question
+I’m unsure of what to click.,question
+This part is unclear to me.,question
+I need some help to figure this out.,question
+I don’t get how this works.,question
+What should I do if this happens?,question
+Can you make this easier to understand?,question
+I’m not sure what you're asking me.,question
+What do I need to do here?,question
+I don’t know where to find this.,question
+Could you explain it in simpler terms?,question
+I’m feeling a bit lost here.,question
+Can you give me an example?,question
+I don’t get why this is happening.,question
+What’s going on here? I’m confused.,question
+I’m having difficulty understanding this.,question
+How do I complete this?,question
+Can you tell me what to do next?,question
+I don’t know what steps to follow.,question
+Can you show me how to do this?,question
+What does this option mean?,question
+I’m unsure about the instructions.,question
+I need some guidance here.,question
+What should I click on next?,question
+Can you explain the next step?,question
+I don’t know how to start.,question
+This isn’t working as I thought it would.,question
+Can you give me some advice?,question
+I’m not sure how to continue.,question
+I need a bit of help with this.,question
+Can you walk me through the process?,question
+I’m confused about the menu options.,question
+I’m having trouble understanding the settings.,question
+Can you help me navigate this?,question
+I’m not sure where to go from here.,question
+I don’t know what this message means.,question
+I can’t make sense of this.,question
+What’s the next step in this process?,question
+How do I proceed from here?,question
+I’m confused by this error message.,question
+I need clarification on this.,question
+Can you explain what I’m supposed to do next?,question
+I’m stuck on this part can you help?,question
+which documents apply,question
+documents where,question
+what choices exist,question
+documents list,question
+what can I choose,question
+which ones are allowed,question
+allowed documents what are they,question
+what options exist for documents,question
+document options what are they,question
+can I pick from documents,question
+how many documents can I select,question
+what kind of documents do I choose,question
+which files do I have access to,question
+files I can use are what,question
+can I decide on documents,question
+can documents be selected by me,question
+who chooses the documents,question
+is selection of documents allowed,question
+are documents preselected or my choice,question
+how do I know what to choose,question
+am I able to choose the documents,question
+are there any options for document selection,question
+which document set applies to me,question
+do I get to choose what documents,question
+which documents are available to pick,question
+from where can I select documents,question
+are the document choices limited,question
+do I have limited document options,question
+which ones are valid for use,question
+valid documents how do I find them,question
+can I choose only from a list,question
+what are the document rules for selection,question
+who provides the list of documents,question
+which documents are acceptable choices,question
+is there a form I must pick from,question
+which document am I supposed to choose,question
+what documents are required from me,question
+do I select or is it automatic,question
+is it my responsibility to choose,question
+is document selection my job or yours,question
+which documents are optional which are not,question
+how do I identify available documents,question
+can I view the full list of documents,question
+is the document list customizable for me,question
+how does document selection work exactly,question
+which documents do you need from me,question
+do I get to decide on the paperwork,question
+what documentation choices do I have today,question
+is there freedom in what I choose,question
+are all documents required or just some,question
+documents now what,question
+allowed forms please list,question
+how do I make my decision about documents,question
+can someone show me the documents I am allowed to use,question
+do I need to see all the options before choosing,question
+documents I can pick are where exactly,question
+selection of which documents is required from me today,question
+can I select more than one document for this process,question
+what kind of document list should I expect to see,question
+how does the process of document selection begin for me,question
+what document applies in my unique case today,question
+which of these documents should I be selecting first,question
+tell me which documents I am supposed to go with,question
+how many total documents do I actually need to pick,question
+which documents are usable for what I need now,question
+am I picking these or do they get assigned automatically,question
+which documents will satisfy the requirements I have today,question
+can I skip any documents if not all are relevant,question
+where do I find the documents you mentioned earlier today,question
+who determines the list of possible documents I can use,question
+what happens if I choose the wrong type of document,question
+which document is the best fit for this step,question
+tell me if I have to pick now or later,question
+which documents belong to my specific application today,question
+how do I reduce the document list to what I need,question
+documents I can select from are shown where exactly,question
+what now here,question
+do what here,question
+what action fits here,question
+help me decide what to do here,question
+am I supposed to act here or wait,question
+what steps should I be taking here,question
+where do I begin in this situation,question
+what is the correct response in this place,question
+what am I expected to do here,question
+what do I need to accomplish at this moment,question
+tell me what my task is right now,question
+what should be done before I move forward,question
+is there something I must handle here first,question
+how do I proceed in this situation exactly,question
+should I be doing anything at this stage,question
+what should I focus on here first,question
+what is my role in this part,question
+what is the next logical step for me,question
+do I wait here or take action now,question
+what exactly is expected of me in this situation,question
+can I ask someone what happens now,question
+where do I go from this point forward,question
+what needs my attention most at this stage,question
+what must I do in this environment right now,question
+what is the best decision I can make here,question
+is there a protocol I should follow here,question
+how do I know what to do here,question
+who can tell me what happens next here,question
+am I required to act or observe for now,question
+should I stay still or move ahead now,question
+what makes sense to do in this situation,question
+do I need instructions to proceed from here,question
+how should I handle the situation I am in,question
+where should my focus be directed right now,question
+what would be the wisest move for me,question
+am I missing something I should already be doing,question
+is it best to speak or stay silent here,question
+what are my choices in this current place,question
+do I take initiative or wait for input,question
+is this a moment for me to decide alone,question
+should I ask questions or take a guess now,question
+what does this part of the process require,question
+is there a guide for what happens now,question
+how do I move forward without making a mistake,question
+is this where I’m supposed to act decisively,question
+do I check something or continue blindly forward,question
+what is my main priority at this specific point,question
+what’s the smartest thing to do right here,question
+should I wait for more input before acting,question
+what should I avoid doing in this moment,question
+i want to change user,change_user
+please let me change user,change_user
+i need to switch user,change_user
+let me switch the user,change_user
+can you change my user,change_user
+i want a different user,change_user
+help me switch the user,change_user
+i must become another user,change_user
+allow me to change user,change_user
+i wish to change user,change_user
+i really need a new user,change_user
+please help me switch user,change_user
+i have to switch user,change_user
+i would like another user,change_user
+i am ready to switch user,change_user
+could i switch my user,change_user
+i want to log in differently,change_user
+i need another login user,change_user
+can you please change user,change_user
+help me become someone else,change_user
+let me access another user,change_user
+i have to become different user,change_user
+please let me log in new,change_user
+allow me to log in new,change_user
+let me be a new user,change_user
+help me be another user,change_user
+i want to be different user,change_user
+i must change to different user,change_user
+i wish to switch my user,change_user
+can i please change the user,change_user
+i really need to switch user,change_user
+i would love a new user,change_user
+please change me to someone else,change_user
+let me change who i am using,change_user
+i cannot use this user anymore,change_user
+help me switch to different user,change_user
+i am done with this user,change_user
+i need new access right now,change_user
+please make me a new user,change_user
+can you switch me to another,change_user
+let me become a new user,change_user
+i want to go as different user,change_user
+i need another identity now please,change_user
+let me operate under new user,change_user
+i really must change this user,change_user
+help me log into someone else,change_user
+please help change my current user,change_user
+i want to change identity quickly,change_user
+i am not this user anymore,change_user
+let me take on another identity,change_user
+i want to act for someone else,change_user
+let me switch for another person,change_user
+i am doing this for them,change_user
+need to act for another user,change_user
+please let me represent someone else,change_user
+i must switch on their behalf,change_user
+allow me to act for another,change_user
+i want to represent someone else,change_user
+i am here for a user,change_user
+let me perform this for them,change_user
+i will act as another user,change_user
+i do this as someone else,change_user
+this is on behalf of them,change_user
+i need to log in for them,change_user
+let me do this for user,change_user
+i am substituting for another person,change_user
+i am handling this for someone,change_user
+want to do this for someone,change_user
+allow me to work for another,change_user
+acting on another persons behalf today,change_user
+let me take action for them,change_user
+need to represent another account now,change_user
+please switch me to their account,change_user
+i must operate for someone else,change_user
+doing this task for a user,change_user
+i am logged in for someone,change_user
+wish to act as proxy user,change_user
+doing this not for myself,change_user
+i must perform this as proxy,change_user
+change me to someone elses user,change_user
+i want access on their behalf,change_user
+can i switch for another user,change_user
+allow me access for someone else,change_user
+taking this step for another person,change_user
+i need to take action for them,change_user
+i want to be proxy now,change_user
+requesting switch to act for user,change_user
+i am doing this on their behalf,change_user
+give me access as proxy user,change_user
+need to log in as someone else,change_user
+i need proxy access for today,change_user
+please switch me to their identity,change_user
+i wish to act on behalf,change_user
+handling this for someone who is absent,change_user
+completing this task for someone else,change_user
+performing this duty as a proxy,change_user
+let me sign in for them,change_user
+i represent another user right now,change_user
+standing in for a different user,change_user
+acting as another user for today,change_user
+someone else needs to use this,change_user
+another person wants to log in,change_user
+a different user needs access now,change_user
+someone else is taking over here,change_user
+they want to use the system,change_user
+another user wants to take control,change_user
+someone else is ready to log in,change_user
+the next user is waiting now,change_user
+a colleague needs this system now,change_user
+user change requested by someone else,change_user
+there is another user waiting here,change_user
+someone else is next to use this,change_user
+time to let another person use it,change_user
+another person needs the account now,change_user
+someone else must use this system,change_user
+a new person is ready to log in,change_user
+they want to take over now,change_user
+i need to let someone else in,change_user
+system needed by another user now,change_user
+switch users someone else wants in,change_user
+another person is ready to go,change_user
+they are waiting to use system,change_user
+i must pass this to another,change_user
+new user wants to access system,change_user
+another person should be using this,change_user
+the next person is waiting here,change_user
+handoff required for another user,change_user
+another user needs to start now,change_user
+someone else is ready to go,change_user
+they are next to use this,change_user
+i must log out for another,change_user
+switch me out someone else is waiting,change_user
+another person needs to log in here,change_user
+a different user is now taking over,change_user
+someone new is ready to use this,change_user
+they need access to this account,change_user
+let someone else start using system,change_user
+time for a new user now,change_user
+another user wants to log in now,change_user
+switch required for next user now,change_user
+another person is ready for login,change_user
+someone else wants access right now,change_user
+new user waiting to sign in,change_user
+user change requested by next person,change_user
+they must use this system now,change_user
+they are taking over from me,change_user
+allow another user to log in,change_user
+the next user is ready to go,change_user
+pass this access to someone else,change_user
+switch users new person is coming,change_user
+i would like change user,change_user
+i would like to change user,change_user
+would like to switch user,change_user
+i would like another user,change_user
+let me change the user,change_user
+i would like to log out,change_user
+can i please change user,change_user
+would like to use new user,change_user
+i would like to switch users,change_user
+let me switch to new user,change_user
+i would like a new account,change_user
+would like to go as different user,change_user
+i want to change who i am,change_user
+can i log in as someone else,change_user
+i would like to be someone else,change_user
+would like different login now please,change_user
+let me log in as another user,change_user
+i would like access for new user,change_user
+wish to become a new user,change_user
+i would like to begin again,change_user
+need to use system with another name,change_user
+want to switch to new identity,change_user
+i would like to change identity,change_user
+please switch me to different user,change_user
+i would like a fresh login,change_user
+would like to act as new user,change_user
+help me become someone else now,change_user
+i want to be a new user,change_user
+can i please log in differently,change_user
+i would like a user reset,change_user
+would like to continue as another user,change_user
+let me start over with new user,change_user
+i would like new user access,change_user
+please allow me a new session,change_user
+want to enter as a new user,change_user
+allow me to try another user,change_user
+i need to go as different user,change_user
+want to log in with new user,change_user
+i would like user credentials changed,change_user
+can i please use another user,change_user
+wish to proceed as different account,change_user
+i want new session with different user,change_user
+would like this session as new user,change_user
+i would prefer a different user,change_user
+let me restart as another user,change_user
+may i continue with new user,change_user
+please log me in as someone new,change_user
+i would rather use other user,change_user
+allow switch to another account please,change_user
+i would like a different profile,change_user

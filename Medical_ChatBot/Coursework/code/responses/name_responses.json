@@ -1,0 +1,37 @@
+{ 
+    "request_name" : [
+        "May I have your name please?",
+        "Could you please tell me your name?",
+        "What’s your name, please?",
+        "Please let me know your name.",
+        "May I ask for your name?"
+
+    ],
+    "question_response" : [
+        "I need to get your name so I can find your records. If you would like to exit this system, just type exit.",
+        "To find your records, I’ll need your name. If you want to leave the system, type 'exit'.",
+        "I need to get your name so I can find your records. If you would like to exit this system, just type 'exit'.",
+        "I need your name to look up your records. You can type 'exit' anytime to leave the system.",
+        "In order to access your records, I’ll need your name. If you prefer not to continue, type 'exit'."
+    ],
+    "other" : [
+        "I'm sorry I didn't recognise that. Could you try entering you name again? Please be sure only enter one name. If you'd like to 'exit' this process type exit.",
+        "Sorry, I didn’t understand that. Please try entering your name once more. Please be sure only enter one name. To exit, just type 'exit'.",
+        "Apologies, I couldn’t recognize your input. Could you try entering your name again? Please be sure only enter one name. If you want to 'exit', type exit.",
+        "I’m sorry, that didn’t come through. Please enter your name again. Please be sure only enter one name. Type 'exit' to leave this process.",
+        "Sorry, I didn’t catch that. Could you try entering your name again? Please be sure only enter one name. If you wish to exit, type 'exit'."
+    ],
+    "name_not_found" : [
+        "I'm sorry but I couldn't find that name in our database.",
+        "I’m sorry, but that name was not found in our database.",
+        "Sorry, we couldn’t locate that name in our records.",
+        "Apologies, but the name you provided does not exist in our database.",
+        "Unfortunately, that name isn’t in our system."
+
+    ],
+    "help" : [
+        "Hi! I need your name to find your records. Once I have it, I'll ask for your date of birth to verify it with your records.<br> If you want to switch user, just ask and we can start again. Or type 'exit' to exit the system.<br>Once I have your name and date of birth, I can help you delete, retrieve or change some of your data on record. I can assist with any of the following: <br>-name <br>-age <br>-gender <br>-blood type <br>-medical condition <br>-date of admission <br>-doctor <br>-hospital <br>-insurance provider <br>-billing amount <br>-room number <br>-admission type <br>-discharge date <br>-medication <br>-test results<br>",
+        "Hello! Please provide your name so I can locate your records. After that, I’ll request your date of birth to confirm your identity.<br>If you’d like to switch user, feel free to ask and we can begin anew. Or type 'exit' to leave the system.<br>With your name and date of birth, I can process requests to delete, retrieve, or update the following data:<br>-name <br>-age <br>-gender <br>-blood type <br>-medical condition <br>-date of admission <br>-doctor <br>-hospital <br>-insurance provider <br>-billing amount <br>-room number <br>-admission type <br>-discharge date <br>-medication <br>-test results",
+        "Hi there! I need your name to access your records. Once received, I’ll ask for your date of birth to match with your records.<br>If you want to change user, just say so and we can restart. Or type 'exit' to exit the system.<br>After verifying your details, I can help you delete, retrieve, or modify any of the following: <br>-name <br>-age <br>-gender <br>-blood type <br>-medical condition <br>-date of admission <br>-doctor <br>-hospital <br>-insurance provider <br>-billing amount <br>-room number <br>-admission type <br>-discharge date <br>-medication <br>-test results"
+    ]
+}
