@@ -1,0 +1,18 @@
+{ 
+    "custom_logging_filepath" : "output.log",
+    "custom_data_path" : "data/graph_data",
+    "k" : 4, 
+    "e" : 0.8,
+    "q" : 10,
+    "a" : 10, 
+    "b" : 1, 
+    "y" : 2, 
+    "x" : 1,
+    "num_routes" : 8, 
+    "max_length" : null, 
+    "stop" : 3, 
+    "folds" : 1,
+    "locations_provided" : true,
+    "recombination" : false,
+    "provide_graphs" : true
+}
