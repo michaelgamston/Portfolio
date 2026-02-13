@@ -1,0 +1,4 @@
+mesa 2.1
+numpy 1.23.0
+math - Standard python library 
+random - Standard python library 
