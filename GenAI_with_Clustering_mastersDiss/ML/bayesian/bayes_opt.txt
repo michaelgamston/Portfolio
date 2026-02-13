@@ -1,0 +1,76 @@
+
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:99.0, 
+h2_units:1088.0, 
+h3_units:343.0 , 
+latent_size32.0, 
+number of hidden layers 1.0
+Minimum value of the objective: 3.8397762775421143
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:147.0, 
+h2_units:747.0, 
+h3_units:190.0 , 
+latent_size51.0, 
+number of hidden layers 2.0
+Minimum value of the objective: 3.8651506900787354
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:60.0, 
+h2_units:588.0, 
+h3_units:823.0 , 
+latent_size53.0, 
+number of hidden layers 2.0
+Minimum value of the objective: 3.8557920455932617
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:637.0, 
+h2_units:882.0, 
+h3_units:891.0 , 
+latent_size79.0, 
+number of hidden layers 0.0
+Minimum value of the objective: 3.852118492126465
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:696.0, 
+h2_units:318.0, 
+h3_units:898.0 , 
+latent_size69.0, 
+number of hidden layers 0.0
+Minimum value of the objective: 3.843275308609009
+
+
+
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:460.0, 
+h2_units:1119.0, 
+h3_units:56.0 , 
+latent_size256.0, 
+number of hidden layers 0.0
+Minimum value of the objective: 0.0619221068918705
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:1043.0, 
+h2_units:767.0, 
+h3_units:744.0 , 
+latent_size256.0, 
+number of hidden layers 0.0
+Minimum value of the objective: 0.06185343489050865
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:559.0, 
+h2_units:559.0, 
+h3_units:334.0 , 
+latent_size1.0, 
+number of hidden layers 2.0
+Minimum value of the objective: 0.06852439045906067
+New report
+Value of (x,y) that minimises the objective: 
+h1_units:512.0, 
+h2_units:135.0, 
+h3_units:551.0 , 
+latent_size1.0, 
+number of hidden layers 2.0
+Minimum value of the objective: 0.06845026463270187
